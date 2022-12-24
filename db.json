@@ -2,15 +2,9 @@
     "users":[
         {
             "id":1,
-            "user":"Harry",
+            "name":"Hardeep",
             "correct":8,
-            "incorrect": 2
-        },
-        {
-            "id":2,
-            "user":"Deepak",
-            "correct":9,
-            "incorrect": 1
+            "incorrect":2
         }
     ]
 }
